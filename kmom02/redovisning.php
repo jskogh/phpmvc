@@ -14,9 +14,11 @@ $data['main'] = <<<EOD
 
 <p> Då jag inte känner mig alltför säker på detta än så valde jag inte att göra några avsteg från Lydia utan följde tutorialen utan att avvika ifrån den. Jag fann den svår men det börjar bli klarare. Speciellt när man såg slutresultatet av sin kod. Eftersom att jag följde tutorialen stötte jag inte på annat än slarvfel, men det gjorde inte momentet mindre tungt då det var mycket man skulle förstå. Jag skulle väl ljuga fall jag förstod allt, men jag ska gå igenom alla länkar som det länkades till och läsa igenom mina anteckningar så kommer nog det sjunka ner också. Jag valde att göra denna uppgift i lugn och ro, då jag tidigare har fått stressat och bara skjutit på oklarheter som i sin tur självklart har försvårat det för mig senare i kursen. </p>
 
+<p> Jag gjorde inte extrauppgiften. Däremot tog jag tag i github. Jag gillar det redan trots att jag inte förstår allt av det. Det verkar vara ett smidigt sätt att lägga upp sina filer på servern och terminal är mer tacksamt att jobba med än filezilla tycker jag. Dessutom är det roligare då man får koda upp det och inte bara dra i lite filer. Nu ska vi se fall jag lyckas uppdatera detta och lägga upp det på studentservern! </p>
 
+<p> Jag kollade också de två länkar på andra MVC ramverk men jag känner mig fortfarande för osäker för att välja vilket som verkar bäst. Jag litar blint på coachen i detta fall. De verkar dock vara snarlika och när man väl förstår sig på allt man kodar kan jag inspireras av andra än det jag får serverat framför och förmodligen kommer kunna göra anpassningar som gör det bäst för mig. Men än så länge är jag bara eleven och lyssnar på min lärare. </p>
+<hr>
 
-<p> Jag gjorde inte extrauppgiften och har inte kollat efter en annan tutorial på MVC </p>
 <h2>KMOM01</h2>
 
 <p> Precis som i föregående kurs använder jag mig av Coda 2, FileZilla och firefox samt safari. </p>
