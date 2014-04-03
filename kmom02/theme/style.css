@@ -1,7 +1,7 @@
 /** 
  * My own style, based on HTML5Boilerplate standard style.
  */
-@import url(../css/style.css);
+@import url(../css/main.css);
 
 /**
  * General elements
@@ -130,7 +130,7 @@ a:hover {
     border-bottom: 2px solid #48afed;
 }
 #navbar a:hover {
-	color: #fff;
+	color: #48afed;
 }
  
 /**
